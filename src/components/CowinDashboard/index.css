@@ -1,0 +1,23 @@
+.back {
+  background-color: #161625;
+  padding: 50px;
+}
+.im1 {
+  height: 40px;
+  width: 40px;
+}
+.logo {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  width: 200px;
+}
+.win {
+  color: #2cc6c6;
+}
+.h12 {
+  color: white;
+}
+p{
+color:white;
+}
